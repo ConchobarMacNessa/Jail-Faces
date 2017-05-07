@@ -1,0 +1,27 @@
+{
+  "name": "jail-faces",
+  "version": "1.0.0",
+  "description": "faces of people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchobarMacNessa/Jail-Faces.git"
+  },
+  "author": "alice ebc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchobarMacNessa/Jail-Faces/issues"
+  },
+  "homepage": "https://github.com/ConchobarMacNessa/Jail-Faces#readme",
+  "dependencies": {
+    "env2": "^2.1.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1"
+  }
+}
